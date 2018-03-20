@@ -24,7 +24,7 @@
 - Update README.md [\#3](https://github.com/Mamdou7/TastyTestingTest/pull/3) ([Mamdou7](https://github.com/Mamdou7))
 
 ## [v1.1.0](https://github.com/Mamdou7/TastyTestingTest/tree/v1.1.0) (2018-03-19)
-[Full Changelog](https://github.com/Mamdou7/TastyTestingTest/compare/v1.1.1-beta.1.1...v1.1.0)
+[Full Changelog](https://github.com/Mamdou7/TastyTestingTest/compare/1.0.0...v1.1.0)
 
 **Merged pull requests:**
 
